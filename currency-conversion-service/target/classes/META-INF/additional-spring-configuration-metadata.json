@@ -1,0 +1,4 @@
+{"properties": [{
+  "type": "java.lang.String",
+  "description": "A description for 'currency-exchange-service.ribbon.listOfServers'"
+}]}
