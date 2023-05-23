@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: omewada
+Build-Jdk: 17.0.2
+Implementation-Title: currency-exchange-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.in28minutes.microservices
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://spring.io/projects/spring-boot/currency-exch
+ ange-service
+Created-By: Maven Integration for Eclipse
+
